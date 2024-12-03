@@ -10,6 +10,7 @@
       ],
       "highlights": "queries/highlights.scm",
       "tags": "queries/tags.scm",
+      "injections": "queries/injections.scm",
       "injection-regex": "ruby"
     }
   ],
